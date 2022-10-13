@@ -1,0 +1,15 @@
+Notes for my Python-MYSQL-User_Interface:
+
+	- Config file:
+		- Python can have congif files with all setting needed by the 
+		  application dynamically or periodically.
+		- Python config files have the extension as .ini
+		- A configuration file is a file that contains data about a program or 
+		  specific user settings that is needed to run the application. 
+		- Creating .ini config files:
+			- The .ini file is a configuration file with an .ini extension.
+			- Python provides a buit-in module called congifpaser to read .ini files
+			- Create a config.ini file inside the project direction and format it like this:
+				- "[Name of section}
+				-  dataName = data
+				-  dataName2 = data2"

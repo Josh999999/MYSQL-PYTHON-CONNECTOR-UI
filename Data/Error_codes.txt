@@ -1,0 +1,4 @@
+Error codes specific to the python-mysql-connector-interface:
+
+0: Everything is ok, nothing went wrong
+1: mysql config file('my.ini') does not have sufficient privilages to be modified by the program
