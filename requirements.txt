@@ -1,0 +1,11 @@
+mysql.connector
+pandas
+csv
+PySimpleGUI
+pip
+importlib.util
+subprocess
+sys
+math
+random
+shutil
