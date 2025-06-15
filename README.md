@@ -34,10 +34,33 @@ pip install -r requirements.txt
 <br>
 
 
-### Step 2. Run the web application using Streamlit
+### Step 2. Install MySQL
+Install MySQL to give the application a database to connect to
+Download at: https://dev.mysql.com/downloads/installer/
+<br>
+
+
+### Step 3. Create the MySQL Database
+Create a Database called "world" that the application will use as its anchor database
+```
+CREATE DATABASE world;
+```
+<br>
+
+
+### Step 4. Run the web application using python
 Run the application using the python
 ```
 python Main_sys.py
+```
+<br>
+
+
+### Step 5. Run the web application using python
+Log into the connector with the details you set when creating the MySQL server
+```
+Username: root
+Password: root
 ```
 <br>
 
