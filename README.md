@@ -36,7 +36,9 @@ pip install -r requirements.txt
 
 ### Step 2. Install MySQL
 Install MySQL to give the application a database to connect to
+<br>
 Download at: https://dev.mysql.com/downloads/installer/
+
 <br>
 
 
